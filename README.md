@@ -3,11 +3,7 @@
 Welcome to the 100 Days Python Project-Based Learning Challenge! This challenge is designed to help you improve your Python programming skills through hands-on projects.
 
 ## Table of Contents
-1. [Day 1: Project Title](projects/Day1/README.md)
-2. [Day 2: Project Title](projects/day2/README.md)
-3. [Day 3: Project Title](projects/day3/README.md)
-   ...
-100. [Day 100: Project Title](projects/day100/README.md)
+1. [Day 1: Quiz Project](Day1)
 
 ## Overview
 In this challenge, you will work on a Python project every day for 100 days. Each project is designed to reinforce your understanding of Python concepts and libraries by building something practical.
